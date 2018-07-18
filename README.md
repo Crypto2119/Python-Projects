@@ -8,3 +8,4 @@ V.1:  http://py3.codeskulptor.org/#user301_0t94sA9e8hdmp2q.py
 http://py3.codeskulptor.org/#user301_kkXXUaWrLQMRKJ6_15.py
 Emoji:
 http://py3.codeskulptor.org/#user301_kkXXUaWrLQMRKJ6_17.py
+bus bridge:  http://py3.codeskulptor.org/#user301_9ylLfd8ZPiYRDhL.py
