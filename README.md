@@ -6,5 +6,5 @@ v.3: http://py3.codeskulptor.org/#user301_gmxj2VhoSYp0pNK.py
 Link to SailBoat:
 V.1:  http://py3.codeskulptor.org/#user301_0t94sA9e8hdmp2q.py
 http://py3.codeskulptor.org/#user301_kkXXUaWrLQMRKJ6_15.py
-Diep.io 
-diep.io/#4316F677006CC9D0BE0C
+Emoji:
+http://py3.codeskulptor.org/#user301_kkXXUaWrLQMRKJ6_17.py
