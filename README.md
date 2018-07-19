@@ -15,3 +15,4 @@ S-Calc: http://py3.codeskulptor.org/#user301_ylWwBaYGkoKMRck_3.py
 s-Calc2: http://py3.codeskulptor.org/#user301_ylWwBaYGkoKMRck_5.py
 S-Calc3: http://py3.codeskulptor.org/#user301_ylWwBaYGkoKMRck_6.py
 Casino Spinner: http://py3.codeskulptor.org/#user301_VpgaZp47QRRXH6L.py
+Casino Spinner2: http://py3.codeskulptor.org/#user301_tKrgFkoi9zOytar_1.py
