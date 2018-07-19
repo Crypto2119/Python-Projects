@@ -9,5 +9,5 @@ http://py3.codeskulptor.org/#user301_kkXXUaWrLQMRKJ6_15.py
 Emoji:
 http://py3.codeskulptor.org/#user301_kkXXUaWrLQMRKJ6_17.py
 bus bridge:  http://py3.codeskulptor.org/#user301_9ylLfd8ZPiYRDhL.py
-
-diep.io: diep.io/#43A7C6230053C0C05C
+L-Calc:  http://py3.codeskulptor.org/#user301_TtnLjKnIqRJ0pt2_1.py
+S-Calc: http://py3.codeskulptor.org/#user301_ylWwBaYGkoKMRck_3.py
