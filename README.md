@@ -21,3 +21,4 @@ Infinity V.2: http://py3.codeskulptor.org/#user301_bv22837dnAGgFQ2_2.py
 Infinity V.3: http://py3.codeskulptor.org/#user301_bv22837dnAGgFQ2_5.py
 Infinity V.4: http://py3.codeskulptor.org/#user301_bv22837dnAGgFQ2_6.py
 Infinity V.5: http://py3.codeskulptor.org/#user301_bv22837dnAGgFQ2_7.py
+Infinity V.6: http://py3.codeskulptor.org/#user301_bv22837dnAGgFQ2_7.py
