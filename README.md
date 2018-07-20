@@ -41,4 +41,6 @@ Infinity V.7:
 http://py3.codeskulptor.org/#user301_bv22837dnAGgFQ2_8.py
 Infinity V.8:
 http://py3.codeskulptor.org/#user301_bv22837dnAGgFQ2_10.py
+Infinity V.9:
+http://py3.codeskulptor.org/#user301_znjK2C51ouJJ8D9.py
 ============================================================================
