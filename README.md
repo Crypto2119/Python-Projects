@@ -49,4 +49,6 @@ Infinity V.11:
 http://py3.codeskulptor.org/#user301_EFq7aBMh534A8TY.py
 Infinity V.12:
 http://py3.codeskulptor.org/#user301_3DUnSv9nt4HPBEE.py
+Infinity V.13:
+https://py3.codeskulptor.org/#user302_uTlNojY7JubroE0.py
 ============================================================================
